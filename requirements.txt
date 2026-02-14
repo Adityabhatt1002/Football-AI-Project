@@ -1,0 +1,9 @@
+ultralytics
+supervision
+opencv-python
+numpy
+torch
+transformers
+tqdm
+roboflow
+sports
