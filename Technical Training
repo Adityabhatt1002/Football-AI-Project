@@ -1,0 +1,8 @@
+Training Details:
+- Model: YOLOv8m
+- Image Size: 640
+- Batch Size: 16
+- Epochs: 50
+- Dataset Size: 298 training images
+- GPU: Tesla T4
+- mAP@0.5: 0.861
