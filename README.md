@@ -4,6 +4,8 @@ Project Structure:
 - models/ → Trained detection models
 - assets/ → Output images and demo videos
 - requirements.txt → Dependencies
+  
+<img width="7680" height="4320" alt="football-ai-diagram-Flowdiagram" src="https://github.com/user-attachments/assets/74e0413b-a933-4b4b-b7cc-6544c2b350f5" />
 
 Football Tactical Analysis using Computer Vision
 ⚙️ Complete Pipeline
