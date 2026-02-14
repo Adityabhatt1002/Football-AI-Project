@@ -1,0 +1,4 @@
+Key Insights:
+- Homography enables accurate projection from broadcast view to pitch coordinates.
+- Voronoi maps show spatial dominance between teams.
+- Team classification via embedding avoids manual jersey labeling.
